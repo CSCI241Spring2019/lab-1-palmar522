@@ -1,0 +1,1292 @@
+Script started on Mon 15 Apr 2019 03:36:28 PM PDT
+palmar@CF165-25:~$ exitf[Kdallllllll[5Pexitgit clone https://github.com/CSCI241Spring2019/lab-1-palmar5222[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd csci241ls[Kgit clone https://github.com/CSCI241Spring2019/lab-1-palmar5222[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd csci241
+palmar@CF165-25:~/csci241$ cd csci241[6Pexitf[Kdallllllll[5Pexitgit clone https://github.com/CSCI241Spring2019/lab-1-ppalmar522
+Cloning into 'lab-1-palmar522'...
+remote: Enumerating objects: 27, done.[K
+remote: Counting objects:   3% (1/27)   [Kremote: Counting objects:   7% (2/27)   [Kremote: Counting objects:  11% (3/27)   [Kremote: Counting objects:  14% (4/27)   [Kremote: Counting objects:  18% (5/27)   [Kremote: Counting objects:  22% (6/27)   [Kremote: Counting objects:  25% (7/27)   [Kremote: Counting objects:  29% (8/27)   [Kremote: Counting objects:  33% (9/27)   [Kremote: Counting objects:  37% (10/27)   [Kremote: Counting objects:  40% (11/27)   [Kremote: Counting objects:  44% (12/27)   [Kremote: Counting objects:  48% (13/27)   [Kremote: Counting objects:  51% (14/27)   [Kremote: Counting objects:  55% (15/27)   [Kremote: Counting objects:  59% (16/27)   [Kremote: Counting objects:  62% (17/27)   [Kremote: Counting objects:  66% (18/27)   [Kremote: Counting objects:  70% (19/27)   [Kremote: Counting objects:  74% (20/27)   [Kremote: Counting objects:  77% (21/27)   [Kremote: Counting objects:  81% (22/27)   [Kremote: Counting objects:  85% (23/27)   [Kremote: Counting objects:  88% (24/27)   [Kremote: Counting objects:  92% (25/27)   [Kremote: Counting objects:  96% (26/27)   [Kremote: Counting objects: 100% (27/27)   [Kremote: Counting objects: 100% (27/27), done.[K
+remote: Compressing objects:   7% (1/14)   [Kremote: Compressing objects:  14% (2/14)   [Kremote: Compressing objects:  21% (3/14)   [Kremote: Compressing objects:  28% (4/14)   [Kremote: Compressing objects:  35% (5/14)   [Kremote: Compressing objects:  42% (6/14)   [Kremote: Compressing objects:  50% (7/14)   [Kremote: Compressing objects:  57% (8/14)   [Kremote: Compressing objects:  64% (9/14)   [Kremote: Compressing objects:  71% (10/14)   [Kremote: Compressing objects:  78% (11/14)   [Kremote: Compressing objects:  85% (12/14)   [Kremote: Compressing objects:  92% (13/14)   [Kremote: Compressing objects: 100% (14/14)   [Kremote: Compressing objects: 100% (14/14), done.[K
+remote: Total 27 (delta 6), reused 26 (delta 5), pack-reused 0[K
+Unpacking objects:   3% (1/27)   Unpacking objects:   7% (2/27)   Unpacking objects:  11% (3/27)   Unpacking objects:  14% (4/27)   Unpacking objects:  18% (5/27)   Unpacking objects:  22% (6/27)   Unpacking objects:  25% (7/27)   Unpacking objects:  29% (8/27)   Unpacking objects:  33% (9/27)   Unpacking objects:  37% (10/27)   Unpacking objects:  40% (11/27)   Unpacking objects:  44% (12/27)   Unpacking objects:  48% (13/27)   Unpacking objects:  51% (14/27)   Unpacking objects:  55% (15/27)   Unpacking objects:  59% (16/27)   Unpacking objects:  62% (17/27)   Unpacking objects:  66% (18/27)   Unpacking objects:  70% (19/27)   Unpacking objects:  74% (20/27)   Unpacking objects:  77% (21/27)   Unpacking objects:  81% (22/27)   Unpacking objects:  85% (23/27)   Unpacking objects:  88% (24/27)   Unpacking objects:  92% (25/27)   Unpacking objects:  96% (26/27)   Unpacking objects: 100% (27/27)   Unpacking objects: 100% (27/27), done.
+Checking connectivity... done.
+palmar@CF165-25:~/csci241$ git config --global user.name ""[Kpalmar522"
+palmar@CF165-25:~/csci241$ git config --global user.name "palmar522"[C[1P "palmar522"[1P "palmar522"[1P "palmar522"[1P "palmar522"e "palmar522"m "palmar522"a "palmar522"i "palmar522"l "palmar522"[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"@"w"w"u"."e"d"u"
+palmar@CF165-25:~/csci241$ git config --global user.email "palmar@wwu.edu"[6Pname "palmar522"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/CSCI241Spring2019/lab-1-ppalmar522[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd csci241[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[Kls
+lab-1-palmar522
+palmar@CF165-25:~/csci241$ cd lab-1-palmar522
+palmar@CF165-25:~/csci241/lab-1-palmar522$ touch writeup.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ ls
+build.gradle  src  username.txt  writeup.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git add writeu[[Kp.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git commit -m ""a"d"d"e"d"[1P"[1P"[1P"[1P"[1P"A"d"e"[1P"d"e"d" "e"m"p"t"y" "w"r"i"t"e"u"p"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+palmar@CF165-25:~/csci241/lab-1-palmar522$ ls
+build.gradle  src  username.txt  writeup.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ rm writeup.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ ls
+build.gradle  src  username.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ cd -
+/home/palmar/csci241
+palmar@CF165-25:~/csci241$ touch writeup.txt
+palmar@CF165-25:~/csci241$ touch writeup.txtcd -[K[2Plsrm writeup.txtls[Kgit commit -m "Added empty writeup"[16Padd writeup.txt
+palmar@CF165-25:~/csci241$ cdgit add writeup.txt[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[Ccd -[K[2Plsrm writeup.txtls[Kgit commit -m "Added empty writeup"[16Padd writeup.txtls[Ktouch writeup.txtcd lab-1-palmar522
+palmar@CF165-25:~/csci241/lab-1-palmar522$ cd lab-1-palmar522git add writeup.txt[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[Ccd -[K[2Plsrm writeup.txtls[Kgit commit -m "Added empty writeup"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	[31mdeleted:    writeup.txt[m
+
+no changes added to commit
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Everything up-to-date
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git pushcommit -m "Added empty writeup"[17Pcd lab-1-palmar522git add writeup.txt[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[C
+palmar@CF165-25:~/csci241/lab-1-palmar522$ touch writeup.txt[9Pgit pushcommit -m "Added empty writeup"push[Kcommit -m "Added empty writeup"[17Pcd lab-1-palmar522git commit -m "Added empty writeup"[17Pcd lab-1-palmar522git add writeup.txt[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[C[2@git add[C[C[C[C[C[C[C[C[C[C[C[C
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git add writeup.txt[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[C[9Pgit pushcommit -m "Added empty writeup"
+[master 7688e46] Added empty writeup
+ 1 file changed, 3 deletions(-)
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git commit -m "Added empty writeup"[16Padd writeup.txt[2Ptouch[C[C[C[C[C[C[C[C[C[C[C[C[9Pgit push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 252 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/CSCI241Spring2019/lab-1-palmar522
+   309bdcb..7688e46  master -> master
+palmar@CF165-25:~/csci241/lab-1-palmar522$ ls
+build.gradle  src  username.txt  writeup.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ rm build [K.gradel[K[Kle
+palmar@CF165-25:~/csci241/lab-1-palmar522$ rm username.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ rm username.txtbuild.gradlels[Kgit pushcommit -m "Added empty writeup"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1P"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1Pp"[1P"D"e"l"e"t"e"d" "u"n"e"c"c"[1P"[1P"[1P"[1P"[1P"f"i"l"e"s" "w"e" "h"a"v"e" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn""t" "g"o"t" "t"o" "y"e"r"[1P"t"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	[31mdeleted:    build.gradle[m
+	[31mdeleted:    username.txt[m
+
+no changes added to commit
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git commit -m "Deleted files we haventt got to yet"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Prm username.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbuild.gradlels[Kgit push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar
+Password for 'https://palmar@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-palmar522/'
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': 522   palmar522
+Password for 'https://palmar522@github.com': 
+Everything up-to-date
+palmar@CF165-25:~/csci241/lab-1-palmar522$ ls
+src  writeup.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ vm writeup.txt
+The program 'vm' is currently not installed. To run 'vm' please ask your administrator to install the package 'mgetty-voice'
+palmar@CF165-25:~/csci241/lab-1-palmar522$ vm writeup.txt[1@i
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"writeup.txt" 0L, 0C[>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll]2;writeup.txt (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll"writeup.txt" 0L, 0C[1;1H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;1H[?12l[?25h[?25l1[24;63H1,2]2;writeup.txt + (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[1;2H[?12l[?25h[?25l)[24;65H3[1;3H[?12l[?25h[?25l[24;65H4[1;4H[?12l[?25h[?25lP[24;65H5[1;5H[?12l[?25h[?25la[24;65H6[1;6H[?12l[?25h[?25ll[24;65H7[1;7H[?12l[?25h[?25lm[24;65H8[1;8H[?12l[?25h[?25la[24;65H9[1;9H[?12l[?25h[?25lr[24;65H10[1;10H[?12l[?25h[?25l[1;9H[K[24;65H9 [1;9H[?12l[?25h[?25l[24;65H10[1;10H[?12l[?25h[?25lR[24;66H1[1;11H[?12l[?25h[?25l[1;10H[K[24;66H0[1;10H[?12l[?25h[?25l[24;65H9 [1;9H[?12l[?25h[?25l[1;8H[K[24;65H8[1;8H[?12l[?25h[?25l[1;7H[K[24;65H7[1;7H[?12l[?25h[?25l[1;6H[K[24;65H6[1;6H[?12l[?25h[?25l[1;5H[K[24;65H5[1;5H[?12l[?25h[?25l[1;4H[K[24;65H4[1;4H[?12l[?25h[?25lR[24;65H5[1;5H[?12l[?25h[?25lo[24;65H6[1;6H[?12l[?25h[?25lb[24;65H7[1;7H[?12l[?25h[?25le[24;65H8[1;8H[?12l[?25h[?25lr[24;65H9[1;9H[?12l[?25h[?25lt[24;65H10[1;10H[?12l[?25h[?25lo[24;66H1[1;11H[?12l[?25h[?25l[24;66H2[1;12H[?12l[?25h[?25lP[24;66H3[1;13H[?12l[?25h[?25la[24;66H4[1;14H[?12l[?25h[?25ll[24;66H5[1;15H[?12l[?25h[?25lm[24;66H6[1;16H[?12l[?25h[?25la[24;66H7[1;17H[?12l[?25h[?25lW[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[?25l:[24;66H8[1;18H[?12l[?25h[?25lW[24;66H9[1;19H[?12l[?25h[?25l[1;18H[K[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[?25l:[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[?25l;[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[?25l:[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[?25l:[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[?25l:[24;66H8[1;18H[?12l[?25h[?25l[1;17H[K[24;66H7[1;17H[?12l[?25h[24;1H[K[?25l[24;63H1,16[10CAll[1;16H[?12l[?25h[?25l[24;66H5[1;15H[?12l[?25h[?25l[24;66H6[1;16H[?12l[?25h[?25l[24;66H5[1;15H[?12l[?25h[?25l[24;66H [1;1H[?12l[?25h[?25l[24;65H2[1;2H[?12l[?25h[?25l[24;65H3[1;3H[?12l[?25h[?25l[24;65H4[1;4H[?12l[?25h[?25l[24;65H5[1;5H[?12l[?25h[?25l[24;65H6[1;6H[?12l[?25h[?25l[24;65H7[1;7H[?12l[?25h[?25l[24;65H8[1;8H[?12l[?25h[?25l[24;65H9[1;9H[?12l[?25h[?25l[24;65H10[1;10H[?12l[?25h[?25l[24;66H1[1;11H[?12l[?25h[?25l[24;66H2[1;12H[?12l[?25h[?25l[24;66H3[1;13H[?12l[?25h[?25l[24;66H4[1;14H[?12l[?25h[?25l[24;66H5[1;15H[?12l[?25h[?25l[24;66H6[1;16H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;63H[K[24;63H1,16[10CAll[1;16H[?12l[?25h[24;1H[K[1;15H[?25l[24;63H1,15[10CAll[1;15H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"writeup.txt" 1L, 17C written[33C1,15[10CAll]2;writeup.txt (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[24;63H[K[24;63H1,15[10CAll[1;15H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l]2;Terminal]1;Terminal[24;1H[K[24;1H[?1l>[?12l[?25h[?1049lpalmar@CF165-25:~/csci241/lab-1-palmar522$ git add writeup.e[Ktxt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git p[Kcommit -m ""A"d"d"e"d" "p"a"r"t" "1" "(")"n)"a)"m)"e)"s)"[C " [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct""o" "w"r"i"t"e"u"p"
+[master 0dce9e3] Added part 1 (names) to writeup
+ 1 file changed, 1 insertion(+)
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mdeleted:    build.gradle[m
+	[31mdeleted:    username.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+palmar@CF165-25:~/csci241/lab-1-palmar522$  [Kgit add build.gradle [K
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git add username.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git commit - [Km ""m"a"k"i"n"g" "s"u"r"e" "t"[1P"f"i"l"e"s" "t"h"a" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct""[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"I" "d"e"l"e"t"e" " [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf""i"l"e"s" "o"f"f" "p"r"o"j"e"c"t" "t"h"a"t" "h"a"v"e" "[1P"n"'"t" "n"[1P"b"e"e"n" "m"a"d"e" "y"e"t"
+[master be4f233] making sure I delete files off project that haven't been made yet
+ 2 files changed, 6 deletions(-)
+ delete mode 100644 build.gradle
+ delete mode 100644 username.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ gis[Kt status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+palmar@CF165-25:~/csci241/lab-1-palmar522$ clear
+[3;J[H[2Jpalmar@CF165-25:~/csci241/lab-1-palmar522$ vim writeup.txt
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"writeup.txt" 1L, 17C[>c[1;1H1) Roberto Palma
+[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll]2;writeup.txt (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[1;1H1) Roberto Palma
+[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll"writeup.txt" 1L, 17C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H1,1[11CAll[1;1H[?12l[?25h[?25l[24;65H2[1;2H[?12l[?25h[?25l[24;65H3[1;3H[?12l[?25h[?25l[24;65H4[1;4H[?12l[?25h[?25l[24;65H5[1;5H[?12l[?25h[?25l[24;65H6[1;6H[?12l[?25h[?25l[24;65H7[1;7H[?12l[?25h[?25l[24;65H8[1;8H[?12l[?25h[?25l[24;65H9[1;9H[?12l[?25h[?25l[24;65H10[1;10H[?12l[?25h[?25l[24;66H1[1;11H[?12l[?25h[?25l[24;66H2[1;12H[?12l[?25h[?25l[24;66H3[1;13H[?12l[?25h[?25l[24;66H4[1;14H[?12l[?25h[?25l[24;66H5[1;15H[?12l[?25h[?25l[24;66H6[1;16H[?12l[?25h[?25l[24;66H7[1;17H[?12l[?25h[?25l[2;1H[K[24;63H2,1 ]2;writeup.txt + (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[2;1H[?12l[?25h[?25l2[24;65H2[2;2H[?12l[?25h[?25l)[24;65H3[2;3H[?12l[?25h[?25l[24;65H4[2;4H[?12l[?25h[?25lH[24;65H5[2;5H[?12l[?25h[?25lo[24;65H6[2;6H[?12l[?25h[?25lb[24;65H7[2;7H[?12l[?25h[?25lb[24;65H8[2;8H[?12l[?25h[?25ly[24;65H9[2;9H[?12l[?25h[?25l:[24;65H10[2;10H[?12l[?25h[?25l[24;66H1[2;11H[?12l[?25h[?25lI[24;66H2[2;12H[?12l[?25h[?25l[24;66H3[2;13H[?12l[?25h[?25ll[24;66H4[2;14H[?12l[?25h[?25lo[24;66H5[2;15H[?12l[?25h[?25lv[24;66H6[2;16H[?12l[?25h[?25le[24;66H7[2;17H[?12l[?25h[?25l[24;66H8[2;18H[?12l[?25h[?25lt[24;66H9[2;19H[?12l[?25h[?25lo[24;65H20[2;20H[?12l[?25h[?25l[24;66H1[2;21H[?12l[?25h[?25le[24;66H2[2;22H[?12l[?25h[?25la[24;66H3[2;23H[?12l[?25h[?25lt[24;66H4[2;24H[?12l[?25h[24;1H[K[2;23H[?25l[24;63H2,23[10CAll[2;23H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"writeup.txt" 2L, 41C written[33C2,23[10CAll]2;writeup.txt (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[24;63H[K[24;63H2,23[10CAll[2;23H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hs[?25l[?12l[?25h[?25l[24;2H[K[24;2H[?12l[?25hq[?25l[?12l[?25h[?25l]2;Terminal]1;Terminal[24;1H[K[24;1H[?1l>[?12l[?25h[?1049lpalmar@CF165-25:~/csci241/lab-1-palmar522$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   writeup.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git add writeup,[K.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git co[K[K[K[K[K[Kgit status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   writeup.txt[m
+
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 5, done.
+Delta compression using up to 8 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 539 bytes | 0 bytes/s, done.
+Total 5 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/CSCI241Spring2019/lab-1-palmar522
+   7688e46..be4f233  master -> master
+palmar@CF165-25:~/csci241/lab-1-palmar522$ touch username.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ vim username.txt
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"username.txt" 0L, 0C[>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll]2;username.txt (~/csci241/lab-1-palmar522) - VIM]1;username.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll"username.txt" 0L, 0C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;1H[?12l[?25h[?25lR[24;63H1,2]2;username.txt + (~/csci241/lab-1-palmar522) - VIM]1;username.txt[1;2H[?12l[?25h[?25lo[24;65H3[1;3H[?12l[?25h[?25lb[24;65H4[1;4H[?12l[?25h[?25le[24;65H5[1;5H[?12l[?25h[?25lr[24;65H6[1;6H[?12l[?25h[?25lt[24;65H7[1;7H[?12l[?25h[?25lo[24;65H8[1;8H[?12l[?25h[?25l[24;65H9[1;9H[?12l[?25h[?25lP[24;65H10[1;10H[?12l[?25h[?25la[24;66H1[1;11H[?12l[?25h[?25ll[24;66H2[1;12H[?12l[?25h[?25lm[24;66H3[1;13H[?12l[?25h[?25la[24;66H4[1;14H[?12l[?25h[?25l,[24;66H5[1;15H[?12l[?25h[?25lp[24;66H6[1;16H[?12l[?25h[?25la[24;66H7[1;17H[?12l[?25h[?25ll[24;66H8[1;18H[?12l[?25h[?25lm[24;66H9[1;19H[?12l[?25h[?25la[24;65H20[1;20H[?12l[?25h[?25lr[24;66H1[1;21H[?12l[?25h[?25l5[24;66H2[1;22H[?12l[?25h[?25l2[24;66H3[1;23H[?12l[?25h[?25l2[24;66H4[1;24H[?12l[?25h[?25l,[24;66H5[1;25H[?12l[?25h[?25l[1;24H[K[24;66H4[1;24H[?12l[?25h[?25l[1;23H[K[24;66H3[1;23H[?12l[?25h[?25l[1;22H[K[24;66H2[1;22H[?12l[?25h[?25l[1;21H[K[24;66H1[1;21H[?12l[?25h[?25l,[24;66H2[1;22H[?12l[?25h[?25lp[24;66H3[1;23H[?12l[?25h[?25la[24;66H4[1;24H[?12l[?25h[?25ll[24;66H5[1;25H[?12l[?25h[?25lm[24;66H6[1;26H[?12l[?25h[?25la[24;66H7[1;27H[?12l[?25h[?25lr[24;66H8[1;28H[?12l[?25h[?25l5[24;66H9[1;29H[?12l[?25h[?25l2[24;65H30[1;30H[?12l[?25h[?25l2[24;66H1[1;31H[?12l[?25h[24;1H[K[1;30H[?25l[24;63H1,30[10CAll[1;30H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"username.txt" 1L, 31C written[32C1,30[10CAll]2;username.txt (~/csci241/lab-1-palmar522) - VIM]1;username.txt[24;63H[K[24;63H1,30[10CAll[1;30H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hs[?25l[?12l[?25h[?25l[24;2H[K[24;2H[?12l[?25hq[?25l[?12l[?25h[?25l]2;Terminal]1;Terminal[24;1H[K[24;1H[?1l>[?12l[?25h[?1049lpalmar@CF165-25:~/csci241/lab-1-palmar522$ git add userna[Kame.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git commit -m ""A"d"d"i"n"g" "t"h"e" "f"i"l"e" "u"s"e"r"n" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca""m"e"
+[master b03b239] Adding the file username
+ 2 files changed, 2 insertions(+)
+ create mode 100644 username.txt
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+palmar@CF165-25:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 4, done.
+Delta compression using up to 8 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 383 bytes | 0 bytes/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+eTo https://github.com/CSCI241Spring2019/lab-1-palmar522
+   be4f233..b03b239  master -> master
+palmar@CF165-25:~/csci241/lab-1-palmar522$ exit
+exit
+
+Script done on Mon 15 Apr 2019 04:03:33 PM PDT
+Script started on Wed 17 Apr 2019 10:09:22 AM PDT
+palmar@CF167-22:~$ clear
+[3;J[H[2Jpalmar@CF167-22:~$ cd csci241
+palmar@CF167-22:~/csci241$ cd lab-1-palmar522
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git mo[K[Kreser[Kt -h
+usage: git reset [--mixed | --soft | --hard | --merge | --keep] [-q] [<commit>]
+   or: git reset [-q] <tree-ish> [--] <paths>...
+   or: git reset --patch [<tree-ish>] [--] [<paths>...]
+
+    -q, --quiet           be quiet, only report errors
+    --mixed               reset HEAD and index
+    --soft                reset only HEAD
+    --hard                reset HEAD, index and working tree
+    --merge               reset HEAD, index and working tree
+    --keep                reset HEAD but keep local changes
+    -p, --patch           select hunks interactively
+    -N, --intent-to-add   record only the fact that removed paths will be added later
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git reset -h[Kq
+palmar@CF167-22:~/csci241/lab-1-palmar522$ touch dummt.txt[C[1P.txty.txt[C[C[C
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git commit -m"[K "Added dummy file"
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	[31mdummy.txt[m
+
+nothing added to commit but untracked files present
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git add dummy [K.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git add dummy.txtcommit -m "Added dummy file"
+[master 77b9e08] Added dummy file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 dummy.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 334 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/CSCI241Spring2019/lab-1-palmar522
+   b03b239..77b9e08  master -> master
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git [K[K[K[Kvim dummy.txt
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"dummy.txt" 0L, 0C[>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll]2;dummy.txt (~/csci241/lab-1-palmar522) - VIM]1;dummy.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H0,0-1[9CAll"dummy.txt" 0L, 0C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H0,1[11CAll[1;1H[?12l[?25h[?25lh[24;63H1,2]2;dummy.txt + (~/csci241/lab-1-palmar522) - VIM]1;dummy.txt[1;2H[?12l[?25h[?25li[24;65H3[1;3H[?12l[?25h[?25lW[24;65H4[1;4H[?12l[?25h[?25l[1;3H[K[24;65H3[1;3H[?12l[?25h[24;1H[K[1;2H[?25l[24;63H1,2[11CAll[1;2H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"dummy.txt" 1L, 3C written[36C1,2[11CAll]2;dummy.txt (~/csci241/lab-1-palmar522) - VIM]1;dummy.txt[24;63H[K[24;63H1,2[11CAll[1;2H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l]2;Terminal]1;Terminal[24;1H[K[24;1H[?1l>[?12l[?25h[?1049lpalmar@CF167-22:~/csci241/lab-1-palmar522$ git add dummy.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git resset --soft
+git: 'resset' is not a git command. See 'git --help'.
+
+Did you mean this?
+	reset
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git resset --soft[1P
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git t[Kstatus
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   dummy.txt[m
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ i[Kgit rm -h
+usage: git rm [<options>] [--] <file>...
+
+    -n, --dry-run         dry run
+    -q, --quiet           do not list removed files
+    --cached              only remove from the index
+    -f, --force           override the up-to-date check
+    -r                    allow recursive removal
+    --ignore-unmatch      exit with a zero status even if nothing matched
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git rm dummy.txt
+error: the following file has changes staged in the index:
+    dummy.txt
+(use --cached to keep the file, or -f to force removal)
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git rm dummy.txt[C dummy.txt- dummy.txtf dummy.txt[C dummy.txt[1Pdummy.txt
+rm 'dummy.txt'
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mdeleted:    dummy.txt[m
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git mv -h
+usage: git mv [<options>] <source>... <destination>
+
+    -v, --verbose         be verbose
+    -n, --dry-run         dry run
+    -f, --force           force move/rename even if target exists
+    -k                    skip move/rename errors
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git mv -h[C[1Ph[C[K[K[K[K[K[K[K[Ktouch dummy2.txx[Kt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git as[Kdd dummy2.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git af[Kdd [K[K[K[K[K[K[K[Kgit status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mrenamed:    dummy.txt -> dummy2.txt[m
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git rm[K[Kmv dummy2.txt dummyrenamed.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ ls
+dummyrenamed.txt  src  username.txt  writeup.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git mv dummy [Krenames[K[Kd[Ked.txt dum [Kdum.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git blame -h
+usage: git blame [<options>] [<rev-opts>] [<rev>] [--] <file>
+
+    <rev-opts> are documented in git-rev-list(1)
+
+    --incremental         Show blame entries as we find them, incrementally
+    -b                    Show blank SHA-1 for boundary commits (Default: off)
+    --root                Do not treat root commits as boundaries (Default: off)
+    --show-stats          Show work cost statistics
+    --score-debug         Show output score for blame entries
+    -f, --show-name       Show original filename (Default: auto)
+    -n, --show-number     Show original linenumber (Default: off)
+    -p, --porcelain       Show in a format designed for machine consumption
+    --line-porcelain      Show porcelain format with per-line commit information
+    -c                    Use the same output mode as git-annotate (Default: off)
+    -t                    Show raw timestamp (Default: off)
+    -l                    Show long commit SHA1 (Default: off)
+    -s                    Suppress author name and timestamp (Default: off)
+    -e, --show-email      Show author email instead of name (Default: off)
+    -w                    Ignore whitespace differences
+    --minimal             Spend extra cycles to find better match
+    -S <file>             Use revisions from <file> instead of calling git-rev-list
+    --contents <file>     Use <file>'s contents as the final image
+    -C[<score>]           Find line copies within and across files
+    -M[<score>]           Find line movements within and across files
+    -L <n,m>              Process only line range n,m, counting from 1
+    --abbrev[=<n>]        use <n> digits to display SHA-1s
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git blame -h[Kt dumdum.txt
+fatal: no such path 'dumdum.txt' in HEAD
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git blame -t dumdum.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kadd dum d[K[Kdum,.[K[K.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ -git add dumdum.txt[5@blame -t[C[C[C[C[C[C[C[C[C[C[C
+fatal: no such path 'dumdum.txt' in HEAD
+palmar@CF167-22:~/csci241/lab-1-palmar522$ ls
+dumdum.txt  src  username.txt  writeup.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git commit -m ""d"[1P"a"d"d"i"n"f"[1P"g" "n"e"w" "d"u"m"m"t" "[1P"[1P"[1P"y"[1P"m"y" "f"i"l"e" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[master 1a3d19b] adding new dummy file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename dummy.txt => dumdum.txt (100%)
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar
+Password for 'https://palmar@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/CSCI241Spring2019/lab-1-palmar522/'
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 2, done.
+Delta compression using up to 8 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  50% (1/2)   Writing objects: 100% (2/2)   Writing objects: 100% (2/2), 234 bytes | 0 bytes/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/CSCI241Spring2019/lab-1-palmar522
+   77b9e08..1a3d19b  master -> master
+palmar@CF167-22:~/csci241/lab-1-palmar522$ clear
+[3;J[H[2Jpalmar@CF167-22:~/csci241/lab-1-palmar522$ 1cleargit pushcommit -m "adding new dummy file" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit blame -t dumdum.txt
+[?1h=[K[?1l>palmar@CF167-22:~/csci241/lab-1-palmar522$ log[K[K[Kgit log
+[?1h=[33mcommit 1a3d19b997c557bd465d5975df49b67a91b07f85[m[m
+Author: palmar522 <palmar@wwu.edu>[m
+Date:   Wed Apr 17 10:24:29 2019 -0700[m
+[m
+    adding new dummy file[m
+[m
+[33mcommit 77b9e081030eadfbe9b4e82c44ec587c9ec57711[m[m
+Author: palmar522 <palmar@wwu.edu>[m
+Date:   Wed Apr 17 10:15:00 2019 -0700[m
+[m
+    Added dummy file[m
+[m
+[33mcommit b03b239004605df6948840b229ed8b03680065f2[m[m
+Author: palmar522 <palmar@wwu.edu>[m
+Date:   Mon Apr 15 16:02:55 2019 -0700[m
+[m
+    Adding the file username[m
+[m
+[33mcommit be4f2334a0d7c07e52f4946bd7ead2afc70eadb6[m[m
+Author: palmar522 <palmar@wwu.edu>[m
+Date:   Mon Apr 15 15:58:48 2019 -0700[m
+[m
+    making sure I delete files off project that haven't been made yet[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 0dce9e3ddbb96b35f3a99689e4374333e645c0ae[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Apr 15 15:50:40 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added part 1 (names) to writeup[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 7688e46828a4c8702496375efa17d5cb06352433[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Apr 15 15:44:50 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added empty writeup[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 309bdcb6246f56d06d3801b9bde9cc634080288e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 11:36:16 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    added question 3[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit cbfea3bbb0eb7f4989e8bc65f62f4d9cd560968e[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 11:30:42 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Entering favorite song[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit ba781a91d93bdb244285a03e67419c05e5e8dc66[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 11:03:42 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Edited the username file[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 4723083c8c1219f2fee7d6c9fbce0f1954e33829[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 11:01:02 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    New file username[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 10:58:23 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added Step 12[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 10:48:49 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added part 1 (names) to write up[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: palmar522 <palmar522@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Thu Apr 11 10:43:15 2019 -0700[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Added empty writeup[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+:[K[K [KESCESC[KOO[KBB[KAuthor: majeskn <majeskn@wwu.edu>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Mon Jan 7 20:49:19 2019 -0800[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Adding setup for gradle[m
+:[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[33m228a1ed[m[m
+[m
+[m
+[m
+[m
+[m
+[33mbadd4ab[m[m
+[m
+[m
+[m
+[m
+[m
+[33m389b3c1[m[m
+[m
+[m
+[m
+[m
+[m
+[33m44a5340[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[33m[m[m
+[m
+[m
+[m
+[m
+[m
+[33m[m[m
+[m
+[m
+[m
+[m
+[m
+[33m[m[m
+[m
+[m
+[m
+[m
+[m
+[33m[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33m228a1ed[m[m
+[m
+[m
+[m
+[m
+[m
+[33mbadd4ab[m[m
+[m
+[m
+[m
+[m
+[m
+[33m389b3c1[m[m
+[m
+[m
+[m
+[m
+[m
+[33m44a5340[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:58:23 2019 -0700[m
+[m
+    Added Step 12[m
+[m
+[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:48:49 2019 -0700[m
+[m
+    Added part 1 (names) to write up[m
+[m
+[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:43:15 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:58:23 2019 -0700[m
+[m
+    Added Step 12[m
+[m
+[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:48:49 2019 -0700[m
+[m
+    Added part 1 (names) to write up[m
+[m
+[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:43:15 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[33m228a1ed[m[m
+[m
+[m
+[m
+[m
+[m
+[33mbadd4ab[m[m
+[m
+[m
+[m
+[m
+[m
+[33m389b3c1[m[m
+[m
+[m
+[m
+[m
+[m
+[33m44a5340[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:58:23 2019 -0700[m
+[m
+    Added Step 12[m
+[m
+[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:48:49 2019 -0700[m
+[m
+    Added part 1 (names) to write up[m
+[m
+[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:43:15 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[33m228a1ed[m[m
+[m
+[m
+[m
+[m
+[m
+[33mbadd4ab[m[m
+[m
+[m
+[m
+[m
+[m
+[33m389b3c1[m[m
+[m
+[m
+[m
+[m
+[m
+[33m44a5340[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[33m[m[m
+[m
+[m
+[m
+[m
+[m
+[33m[m[m
+[m
+[m
+[m
+[m
+[m
+[33m[m[m
+[m
+[m
+[m
+[m
+[m
+[33m[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33m228a1ed[m[m
+[m
+[m
+[m
+[m
+[m
+[33mbadd4ab[m[m
+[m
+[m
+[m
+[m
+[m
+[33m389b3c1[m[m
+[m
+[m
+[m
+[m
+[m
+[33m44a5340[m[m
+[m
+[m
+[m
+[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:58:23 2019 -0700[m
+[m
+    Added Step 12[m
+[m
+[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:48:49 2019 -0700[m
+[m
+    Added part 1 (names) to write up[m
+[m
+[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:43:15 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:58:23 2019 -0700[m
+[m
+    Added Step 12[m
+[m
+[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:48:49 2019 -0700[m
+[m
+    Added part 1 (names) to write up[m
+[m
+[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:43:15 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[33mcommit 0349fab6eb1916ae00d54ac1b7436b5dc228a1ed[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:58:23 2019 -0700[m
+[m
+    Added Step 12[m
+[m
+[33mcommit 8434678ee922799cc7fdbb33ca412f800badd4ab[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:48:49 2019 -0700[m
+[m
+    Added part 1 (names) to write up[m
+[m
+[33mcommit a55f7cba205f02f04064964fc44d94e24389b3c1[m[m
+Author: palmar522 <palmar522@wwu.edu>[m
+Date:   Thu Apr 11 10:43:15 2019 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 1523c09e41bb264a6f420fcd78d1a7d6e44a5340[m[m
+Author: majeskn <majeskn@wwu.edu>[m
+Date:   Mon Jan 7 20:49:19 2019 -0800[m
+[m
+    Adding setup for gradle[m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [KESCESC[K^?^?[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K[H[2J[HM    making sure I delete files off project that haven't been made yet[m
+[HM[m
+[HMDate:   Mon Apr 15 15:58:48 2019 -0700[m
+[HMAuthor: palmar522 <palmar@wwu.edu>[m
+[HM[33mcommit be4f2334a0d7c07e52f4946bd7ead2afc70eadb6[m[m
+[HM[m
+[HM    Adding the file username[m
+[HM[m
+[HMDate:   Mon Apr 15 16:02:55 2019 -0700[m
+[HMAuthor: palmar522 <palmar@wwu.edu>[m
+[HM[33mcommit b03b239004605df6948840b229ed8b03680065f2[m[m
+[HM[m
+[HM    Added dummy file[m
+[HM[m
+[HMDate:   Wed Apr 17 10:15:00 2019 -0700[m
+[HMAuthor: palmar522 <palmar@wwu.edu>[m
+[HM[33mcommit 77b9e081030eadfbe9b4e82c44ec587c9ec57711[m[m
+[HM[m
+[HM    adding new dummy file[m
+[HM[m
+[HMDate:   Wed Apr 17 10:24:29 2019 -0700[m
+[HMAuthor: palmar522 <palmar@wwu.edu>[m
+[HM[33mcommit 1a3d19b997c557bd465d5975df49b67a91b07f85[m[m
+[24;1H[K:[K[K:[K[K[?1l>palmar@CF167-22:~/csci241/lab-1-palmar522$ git diff dum [Kdum.txt
+[?1h=[K[?1l>palmar@CF167-22:~/csci241/lab-1-palmar522$ git diff dumdum.txt[K[K[K[K[K[K[K[K[K[K[K -h
+[?1h=usage: git diff [<options>] [<commit> [<commit>]] [--] [<path>...][m
+[K[?1l>palmar@CF167-22:~/csci241/lab-1-palmar522$ git diff -hdumdum.txt[K[K[K[K[K[K[K[K[K[K[K writeup,[K.txt writeup.txt
+[?1h=[K[?1l>palmar@CF167-22:~/csci241/lab-1-palmar522$ git rm -hard[K[K[K[Kh
+usage: git rm [<options>] [--] <file>...
+
+    -n, --dry-run         dry run
+    -q, --quiet           do not list removed files
+    --cached              only remove from the index
+    -f, --force           override the up-to-date check
+    -r                    allow recursive removal
+    --ignore-unmatch      exit with a zero status even if nothing matched
+
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git remo[K[K[Km -f dumdum.txt
+rm 'dumdum.txt'
+palmar@CF167-22:~/csci241/lab-1-palmar522$ clear
+[3;J[H[2Jpalmar@CF167-22:~/csci241/lab-1-palmar522$ git checkout -b question [K3
+D	dumdum.txt
+Switched to a new branch 'question3'
+palmar@CF167-22:~/csci241/lab-1-palmar522$ vim writeup.txt
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"writeup.txt" 2L, 41C[>c[1;1H1) Roberto Palma
+2) Hobby: I love to eat
+[94m~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll]2;writeup.txt (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[1;1H1) Roberto Palma
+2) Hobby: I love to eat
+[94m~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll"writeup.txt" 2L, 41C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;63H1,1[11CAll[1;1H[?12l[?25h[?25l[24;63H2[2;1H[?12l[?25h[?25l[24;65H2[2;2H[?12l[?25h[?25l[24;65H3[2;3H[?12l[?25h[?25l[24;65H4[2;4H[?12l[?25h[?25l[24;65H5[2;5H[?12l[?25h[?25l[24;65H6[2;6H[?12l[?25h[?25l[24;65H7[2;7H[?12l[?25h[?25l[24;65H8[2;8H[?12l[?25h[?25l[24;65H9[2;9H[?12l[?25h[?25l[24;65H10[2;10H[?12l[?25h[?25l[24;66H1[2;11H[?12l[?25h[?25l[24;66H2[2;12H[?12l[?25h[?25l[24;66H3[2;13H[?12l[?25h[?25l[24;66H4[2;14H[?12l[?25h[?25l[24;66H5[2;15H[?12l[?25h[?25l[24;66H6[2;16H[?12l[?25h[?25l[24;66H7[2;17H[?12l[?25h[?25l[24;66H8[2;18H[?12l[?25h[?25l[24;66H9[2;19H[?12l[?25h[?25l[24;65H20[2;20H[?12l[?25h[?25l[24;66H1[2;21H[?12l[?25h[?25l[24;66H2[2;22H[?12l[?25h[?25l[24;66H3[2;23H[?12l[?25h[?25l[24;66H4[2;24H[?12l[?25h[?25l[3;1H[K[24;63H3,1 ]2;writeup.txt + (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[3;1H[?12l[?25h[?25l3[24;65H2[3;2H[?12l[?25h[?25l)[24;65H3[3;3H[?12l[?25h[?25l[24;65H4[3;4H[?12l[?25h[?25lH[24;65H5[3;5H[?12l[?25h[?25lO[24;65H6[3;6H[?12l[?25h[?25lC[24;65H7[3;7H[?12l[?25h[?25l[24;65H8[3;8H[?12l[?25h[?25lb[24;65H9[3;9H[?12l[?25h[?25ly[24;65H10[3;10H[?12l[?25h[?25l[24;66H1[3;11H[?12l[?25h[?25lK[24;66H2[3;12H[?12l[?25h[?25le[24;66H3[3;13H[?12l[?25h[?25ln[24;66H4[3;14H[?12l[?25h[?25ld[24;66H5[3;15H[?12l[?25h[?25lr[24;66H6[3;16H[?12l[?25h[?25l[3;15H[K[24;66H5[3;15H[?12l[?25h[?25l[3;14H[K[24;66H4[3;14H[?12l[?25h[?25l[3;13H[K[24;66H3[3;13H[?12l[?25h[?25l[3;12H[K[24;66H2[3;12H[?12l[?25h[?25l[3;11H[K[24;66H1[3;11H[?12l[?25h[?25l[24;66H0[3;10H[?12l[?25h[?25l[3;9H[K[24;65H9 [3;9H[?12l[?25h[?25l[3;8H[K[24;65H8[3;8H[?12l[?25h[?25l[24;65H7[3;7H[?12l[?25h[?25l[3;6H[K[24;65H6[3;6H[?12l[?25h[?25l[3;5H[K[24;65H5[3;5H[?12l[?25h[?25l[3;4H[K[24;65H4[3;4H[?12l[?25h[?25l[24;65H3[3;3H[?12l[?25h[?25l[24;65H4[3;4H[?12l[?25h[?25lA[24;65H5[3;5H[?12l[?25h[?25l[3;4H[K[24;65H4[3;4H[?12l[?25h[?25lF[24;65H5[3;5H[?12l[?25h[?25la[24;65H6[3;6H[?12l[?25h[?25lv[24;65H7[3;7H[?12l[?25h[?25lo[24;65H8[3;8H[?12l[?25h[?25lr[24;65H9[3;9H[?12l[?25h[?25li[24;65H10[3;10H[?12l[?25h[?25lt[24;66H1[3;11H[?12l[?25h[?25le[24;66H2[3;12H[?12l[?25h[?25l[24;66H3[3;13H[?12l[?25h[?25ls[24;66H4[3;14H[?12l[?25h[?25lo[24;66H5[3;15H[?12l[?25h[?25ln[24;66H6[3;16H[?12l[?25h[?25lg[24;66H7[3;17H[?12l[?25h[?25l:[24;66H8[3;18H[?12l[?25h[?25l[24;66H9[3;19H[?12l[?25h[?25lh[24;65H20[3;20H[?12l[?25h[?25lo[24;66H1[3;21H[?12l[?25h[?25lc[24;66H2[3;22H[?12l[?25h[?25l[24;66H3[3;23H[?12l[?25h[?25l[24;66H2[3;22H[?12l[?25h[?25l[3;21H[K[24;66H1[3;21H[?12l[?25h[?25l[3;20H[K[24;66H0[3;20H[?12l[?25h[?25l[3;19H[K[24;65H19[3;19H[?12l[?25h[?25lH[24;65H20[3;20H[?12l[?25h[?25lO[24;66H1[3;21H[?12l[?25h[?25lC[24;66H2[3;22H[?12l[?25h[?25l[24;66H3[3;23H[?12l[?25h[?25lb[24;66H4[3;24H[?12l[?25h[?25ly[24;66H5[3;25H[?12l[?25h[?25l[24;66H6[3;26H[?12l[?25h[?25lk[24;66H7[3;27H[?12l[?25h[?25le[24;66H8[3;28H[?12l[?25h[?25ln[24;66H9[3;29H[?12l[?25h[?25ld[24;65H30[3;30H[?12l[?25h[?25lr[24;66H1[3;31H[?12l[?25h[?25li[24;66H2[3;32H[?12l[?25h[?25lc[24;66H3[3;33H[?12l[?25h[?25lk[24;66H4[3;34H[?12l[?25h[?25l[24;66H5[3;35H[?12l[?25h[?25ll[24;66H6[3;36H[?12l[?25h[?25la[24;66H7[3;37H[?12l[?25h[?25lm[24;66H8[3;38H[?12l[?25h[?25la[24;66H9[3;39H[?12l[?25h[?25lr[24;65H40[3;40H[?12l[?25h[24;1H[K[3;39H[?25l[24;63H3,39[10CAll[3;39H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"writeup.txt" 3L, 81C written[33C3,39[10CAll]2;writeup.txt (~/csci241/lab-1-palmar522) - VIM]1;writeup.txt[24;63H[K[24;63H3,39[10CAll[3;39H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hs[?25l[?12l[?25h[?25l[97m[41mE33: No previous substitute regular expression[m[16C3,39[10CAll[3;39H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l]2;Terminal]1;Terminal[24;1H[K[24;1H[?1l>[?12l[?25h[?1049lpalmar@CF167-22:~/csci241/lab-1-palmar522$ git commit a[K-a 0[K-m ""a"d"d"e"d" "f"a"v"o"r"i"t"e" "s"o"n" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg""
+[question3 cdb3dfb] added favorite song
+ 2 files changed, 1 insertion(+)
+ delete mode 100644 dumdum.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git add writeup.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git add writeup.txtcommit -a -m "added favorite song""
+On branch question3
+nothing to commit, working directory clean
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git merge question3
+Updating 1a3d19b..cdb3dfb
+Fast-forward
+ dumdum.txt  | 0
+ writeup.txt | 1 [32m+[m
+ 2 files changed, 1 insertion(+)
+ delete mode 100644 dumdum.txt
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git b[Kbranch -d question3
+Deleted branch question3 (was cdb3dfb).
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 330 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/CSCI241Spring2019/lab-1-palmar522
+   1a3d19b..cdb3dfb  master -> master
+palmar@CF167-22:~/csci241/lab-1-palmar522$ gradle build
+[0m
+[1AStarting a Gradle Daemon, 1 incompatible and 1 stopped Daemons could not be reused, use --status for details
+
+
+[2A[1B[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A[1m> Starting Daemon[m[17D[1B[1A> IDLE[0K[6D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[2B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% INITIALIZING [0s][m[36D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[0K[35D[1B[1m> Loading projects[m[0K[18D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> Loading projects[m[18D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[0K[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[0K[33D[1B[1m> :buildEnvironment[m[19D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :buildEnvironment[m[19D[1B[2A[0K
+[1m> Task :buildEnvironment[m
+
+[1m------------------------------------------------------------[m
+[1mRoot project[m
+[1m------------------------------------------------------------[m
+
+[32mclasspath[39m
+[33mNo dependencies[39m
+
+A web-based, searchable dependency report is available by adding the [1m--scan[m option.
+
+[32;1mBUILD SUCCESSFUL[0;39m in 3s
+1 actionable task: 1 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> Deleting unused version-specific caches in /home/palmar/csci241/lab-1-palmar5[m[79D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[2B[2A[2K[1B[2K[1A[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ gradke[K[Kle run
+[0m
+
+[1A[1m> Connecting to Daemon[m[22D[1B[2A
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Task 'run' not found in root project 'lab-1-palmar522'.
+
+* Try:
+Run [1mgradle tasks[m to get a list of available tasks. Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 0s
+
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[2B[2A[2K[1B[2K[1A[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ cd src/main/java/lab1/
+palmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ gradle build
+[0m
+[1A
+[1m> Task :buildEnvironment[m
+
+[1m------------------------------------------------------------[m
+[1mRoot project[m
+[1m------------------------------------------------------------[m
+
+[32mclasspath[39m
+[33mNo dependencies[39m
+
+A web-based, searchable dependency report is available by adding the [1m--scan[m option.
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+1 actionable task: 1 executed
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mpalmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ gradle run
+[0m
+[1A
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Task 'run' not found in root project 'lab1'.
+
+* Try:
+Run [1mgradle tasks[m to get a list of available tasks. Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 0s
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mpalmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ cd
+palmar@CF167-22:~$ cd cd[Ksci241
+palmar@CF167-22:~/csci241$ gradle build
+[0m
+
+[1A[1m> Connecting to Daemon[m[22D[1B[2A
+[1m> Task :buildEnvironment[m
+
+[1m------------------------------------------------------------[m
+[1mRoot project[m
+[1m------------------------------------------------------------[m
+
+[32mclasspath[39m
+[33mNo dependencies[39m
+
+A web-based, searchable dependency report is available by adding the [1m--scan[m option.
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+1 actionable task: 1 executed
+
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> Connecting to Daemon[m[22D[1B[2A[2K[1B[2K[1A[0mpalmar@CF167-22:~/csci241$ gradle build[K[K[K[K[Krun
+[0m
+[1A
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Task 'run' not found in root project 'csci241'.
+
+* Try:
+Run [1mgradle tasks[m to get a list of available tasks. Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 0s
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mpalmar@CF167-22:~/csci241$ cd /lib[K[Ka[Kab[K[K[K[Klab-1-palmar522/
+palmar@CF167-22:~/csci241/lab-1-palmar522$ cd lab-1-palmar522/[9Pgradle runbuild
+[0m
+
+[1A[1m> Connecting to Daemon[m[22D[1B[2A
+[1m> Task :buildEnvironment[m
+
+[1m------------------------------------------------------------[m
+[1mRoot project[m
+[1m------------------------------------------------------------[m
+
+[32mclasspath[39m
+[33mNo dependencies[39m
+
+A web-based, searchable dependency report is available by adding the [1m--scan[m option.
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+1 actionable task: 1 executed
+
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> Connecting to Daemon[m[22D[1B[2A[2K[1B[2K[1A[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ gradle buildcd lab-1-palmar522/[9Pgradle run
+[0m
+[1A
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Task 'run' not found in root project 'lab-1-palmar522'.
+
+* Try:
+Run [1mgradle tasks[m to get a list of available tasks. Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 0s
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ gradle tasks
+[0m
+[1A
+[1m> Task :tasks[m
+
+[1m------------------------------------------------------------[m
+[1mAll tasks runnable from root project[m
+[1m------------------------------------------------------------[m
+
+[1mBuild Setup tasks[m
+[1m-----------------[m
+[32minit[39m[33m - Initializes a new Gradle build.[39m
+[32mwrapper[39m[33m - Generates Gradle wrapper files.[39m
+
+[1mHelp tasks[m
+[1m----------[m
+[32mbuildEnvironment[39m[33m - Displays all buildscript dependencies declared in root project 'lab-1-palmar522'.[39m
+[32mcomponents[39m[33m - Displays the components produced by root project 'lab-1-palmar522'. [incubating][39m
+[32mdependencies[39m[33m - Displays all dependencies declared in root project 'lab-1-palmar522'.[39m
+[32mdependencyInsight[39m[33m - Displays the insight into a specific dependency in root project 'lab-1-palmar522'.[39m
+[32mdependentComponents[39m[33m - Displays the dependent components of components in root project 'lab-1-palmar522'. [incubating][39m
+[32mhelp[39m[33m - Displays a help message.[39m
+[32mmodel[39m[33m - Displays the configuration model of root project 'lab-1-palmar522'. [incubating][39m
+[32mprojects[39m[33m - Displays the sub-projects of root project 'lab-1-palmar522'.[39m
+[32mproperties[39m[33m - Displays the properties of root project 'lab-1-palmar522'.[39m
+[32mtasks[39m[33m - Displays the tasks runnable from root project 'lab-1-palmar522'.[39m
+
+To see all tasks and more detail, run [1mgradle[m[1m [m[1mtasks --all[m
+
+To see more detail about a task, run [1mgradle[m[1m [m[1mhelp --task <task>[m
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+1 actionable task: 1 executed
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ gradle run
+[0m
+
+[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% CONFIGURING [0s][m[35D[1B[1m> root project[m[14D[1B[2A[1m<[0;32;1m=============[0;39;1m> 100% CONFIGURING [0s][m[37D[1B> IDLE[0K[6D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[0K[33D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[0K
+[1m> Task :run[m[0K
+Hello World!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 1s
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :compileJava[m[14D[1B[2A[2K[1B[2K[1A[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ cd src/main//[Kjava/lab1/
+palmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ vim [K[K[K[Kls
+Hello.java
+palmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ vim Hello.java
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"Hello.java" 7L, 131C[>c[1;1H[35mpackage[m lab1;
+
+[32mpublic[m [32mclass[m Hello{
+    [32mpublic[m [32mstatic[m [32mvoid[m main(String[] args){[5;9HSystem.out.println([31m"Hello World!"[m);
+    }
+}
+[94m~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll]2;Hello.java (~/csci241/lab-1-palmar522/src/main/java/lab1) - VIM]1;Hello.java[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[1;1H[38;5;81mpackage[m lab1;
+
+[38;5;121mpublic[m [38;5;121mclass[m Hello{
+    [38;5;121mpublic[m [38;5;121mstatic[m [38;5;121mvoid[m main(String[] args){[5;9HSystem.out.println([95m"Hello World!"[m);
+    }
+}
+[94m~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,1[11CAll"Hello.java" 7L, 131C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;14H[K[24;63H1,1[11CAll[1;1H[?12l[?25h[?25l[24;63H2[2;1H[?12l[?25h[?25l[24;63H3[3;1H[?12l[?25h[?25l[24;63H4[4;1H[?12l[?25h[?25l[24;63H5[5;1H[?12l[?25h[?25l[24;65H2[5;2H[?12l[?25h[?25l[24;65H3[5;3H[?12l[?25h[?25l[24;65H4[5;4H[?12l[?25h[?25l[24;63H6[6;4H[?12l[?25h[?25l[4;43H[46m{[6;5H}[m[24;65H5[6;5H[?12l[?25h[?25l[24;65H6[6;6H[?12l[?25h[?25l[4;43H{[6;5H}[24;63H5[5;6H[?12l[?25h[?25l[24;65H7[5;7H[?12l[?25h[?25l[24;65H8[5;8H[?12l[?25h[?25l[24;65H9[5;9H[?12l[?25h[?25l[24;65H10[5;10H[?12l[?25h[?25l[24;66H1[5;11H[?12l[?25h[?25l[24;66H2[5;12H[?12l[?25h[?25l[24;66H3[5;13H[?12l[?25h[?25l[24;66H4[5;14H[?12l[?25h[?25l[24;66H5[5;15H[?12l[?25h[?25l[24;66H6[5;16H[?12l[?25h[?25l[24;66H7[5;17H[?12l[?25h[?25l[24;66H8[5;18H[?12l[?25h[?25l[24;66H9[5;19H[?12l[?25h[?25l[24;65H20[5;20H[?12l[?25h[?25l[24;66H1[5;21H[?12l[?25h[?25l[24;66H2[5;22H[?12l[?25h[?25l[24;66H3[5;23H[?12l[?25h[?25l[24;66H4[5;24H[?12l[?25h[?25l[24;66H5[5;25H[?12l[?25h[?25l[24;66H6[5;26H[?12l[?25h[?25ln[46m([14C)[m[24;66H7[5;27H[?12l[?25h[?25l[24;66H8[5;28H[?12l[?25h[?25l([14C)[24;66H9[5;29H[?12l[?25h[?25l[24;65H30[5;30H[?12l[?25h[?25l[24;66H1[5;31H[?12l[?25h[?25l[24;66H2[5;32H[?12l[?25h[?25l[24;66H3[5;33H[?12l[?25h[?25l[24;66H4[5;34H[?12l[?25h[?25l[24;66H5[5;35H[?12l[?25h[?25l[24;66H6[5;36H[?12l[?25h[?25l[24;66H7[5;37H[?12l[?25h[?25l[24;66H8[5;38H[?12l[?25h[?25l[24;66H9[5;39H[?12l[?25h[?25l[24;65H40[5;40H[?12l[?25h[?25l[24;66H1[5;41H[?12l[?25h[?25l[95m"[m);[5;43H[K[24;66H0]2;Hello.java + (~/csci241/lab-1-palmar522/src/main/java/lab1) - VIM]1;Hello.java[5;40H[?12l[?25h[?25l[95m"[m);[5;42H[K[24;65H39[5;39H[?12l[?25h[?25l[95m"[m);[5;41H[K[24;66H8[5;38H[?12l[?25h[?25l[95m"[m);[5;40H[K[24;66H7[5;37H[?12l[?25h[?25l[95m"[m);[5;39H[K[24;66H6[5;36H[?12l[?25h[?25l[95m"[m);[5;38H[K[24;66H5[5;35H[?12l[?25h[?25l[95m"[m);[5;37H[K[24;66H4[5;34H[?12l[?25h[?25l[4;43H[46m{[6;5H}[m[24;63H6,6 [6;6H[?12l[?25h[?25l[24;65H5[6;5H[?12l[?25h[?25l[4;43H{[6;5H}[24;63H5[5;5H[?12l[?25h[?25l[24;65H6[5;6H[?12l[?25h[?25l[24;65H7[5;7H[?12l[?25h[?25l[24;65H8[5;8H[?12l[?25h[?25l[24;65H9[5;9H[?12l[?25h[?25l[24;65H10[5;10H[?12l[?25h[?25l[24;66H1[5;11H[?12l[?25h[?25l[24;66H2[5;12H[?12l[?25h[?25l[24;66H3[5;13H[?12l[?25h[?25l[24;66H4[5;14H[?12l[?25h[?25l[24;66H5[5;15H[?12l[?25h[?25l[24;66H6[5;16H[?12l[?25h[?25l[24;66H7[5;17H[?12l[?25h[?25l[24;66H8[5;18H[?12l[?25h[?25l[24;66H9[5;19H[?12l[?25h[?25l[24;65H20[5;20H[?12l[?25h[?25l[24;66H1[5;21H[?12l[?25h[?25l[24;66H2[5;22H[?12l[?25h[?25l[24;66H3[5;23H[?12l[?25h[?25l[24;66H4[5;24H[?12l[?25h[?25l[24;66H5[5;25H[?12l[?25h[?25l[24;66H6[5;26H[?12l[?25h[?25ln[46m([7C)[m[24;66H7[5;27H[?12l[?25h[?25l[24;66H8[5;28H[?12l[?25h[?25l([7C)[24;66H9[5;29H[?12l[?25h[?25l[24;65H30[5;30H[?12l[?25h[?25l[24;66H1[5;31H[?12l[?25h[?25l[24;66H2[5;32H[?12l[?25h[?25l[24;66H3[5;33H[?12l[?25h[?25l[24;66H4[5;34H[?12l[?25h[?25l[5;27H[46m([7C)[m[24;66H5[5;35H[?12l[?25h[?25l[5;27H([7C)[24;66H4[5;34H[?12l[?25h[?25l[95m "[m);[24;66H5[5;35H[?12l[?25h[?25l[95m+"[m);[24;66H6[5;36H[?12l[?25h[?25l[95m"[m);[5;38H[K[24;66H5[5;35H[?12l[?25h[?25l[5;27H[46m([8C)[m[24;66H6[5;36H[?12l[?25h[?25l[46m [m); [46m)[m[24;66H7[5;37H[?12l[?25h[?25l[46m+[m);+[46m)[m[24;66H8[5;38H[?12l[?25h[?25l[46m [m); [46m)[m[24;66H9[5;39H[?12l[?25h[?25l[46ma[m);a[46m)[m[24;65H40[5;40H[?12l[?25h[?25l[46mr[m);r[46m)[m[24;66H1[5;41H[?12l[?25h[?25l[46mg[m);g[46m)[m[24;66H2[5;42H[?12l[?25h[?25l[46ms[m);s[46m)[m[24;66H3[5;43H[?12l[?25h[?25l[46m[[m);[[46m)[m[24;66H4[5;44H[?12l[?25h[?25l[46m][m);][46m)[m[24;66H5[5;45H[?12l[?25h[?25l[5;27H([15C[46m[][m)[24;66H4[5;44H[?12l[?25h[?25l[95m[46m0[m]);[95m0[m[46m][m[24;66H5[5;45H[?12l[?25h[?25l[5;27H[46m([m[15C[[1C][46m)[m[24;66H6[5;46H[?12l[?25h[24;1H[K[5;45H[?25l[5;27H([15C[46m[[1C][m)[24;63H5,45[10CAll[5;45H[?12l[?25h[?25l[24;63H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"Hello.java" 7L, 135C written[33C5,45[10CAll]2;Hello.java (~/csci241/lab-1-palmar522/src/main/java/lab1) - VIM]1;Hello.java[24;63H[K[24;63H5,45[10CAll[5;45H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l]2;Terminal]1;Terminal[24;1H[K[24;1H[?1l>[?12l[?25h[?1049lpalmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ gradle run --args= ""2"4"1"
+[0m
+[1A
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Task 'run' not found in root project 'lab1'.
+
+* Try:
+Run [1mgradle tasks[m to get a list of available tasks. Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 0s
+
+[1A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1A[2K[0mpalmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ cd csci241
+bash: cd: csci241: No such file or directory
+palmar@CF167-22:~/csci241/lab-1-palmar522/src/main/java/lab1$ cd
+palmar@CF167-22:~$ cd s[Kcsci241/
+.git/            .gradle/         lab-1-palmar522/ 
+palmar@CF167-22:~$ cd csci241/lab-1-palmar522/
+palmar@CF167-22:~/csci241/lab-1-palmar522$ gradle run cd csci241/lab-1-palmar522/[K csci241gradle run --args="241"
+[0m
+
+[2A[1m<[0;32;1;0;39;1m-------------> 0% EXECUTING [0s][m[33D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [0s][m[34D[1B[1m> :run[m[0K[6D[1B[2A[0K
+[1m> Task :run[m
+Hello 241
+
+[32;1mBUILD SUCCESSFUL[0;39m in 0s
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;32;1;0;39;1m-------------> 0% WAITING[m[26D[1B[1m> :run[m[6D[1B[2A[2K[1B[2K[1A[0mpalmar@CF167-22:~/csci241/lab-1-palmar522$ git add src/main/java/lab1/Hello.java [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ka
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git commit -m ""H"e"l"l"o" "n"o"w" "p"r"i"n"t"s" "c"o"m"m" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca""n"d" "l"i"n"e" "a"r"g"
+[master 82be4db] Hello now prints command line arg
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+palmar@CF167-22:~/csci241/lab-1-palmar522$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': palmar522
+Password for 'https://palmar522@github.com': 
+Counting objects: 7, done.
+Delta compression using up to 8 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 532 bytes | 0 bytes/s, done.
+Total 7 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/CSCI241Spring2019/lab-1-palmar522
+   cdb3dfb..82be4db  master -> master
+palmar@CF167-22:~/csci241/lab-1-palmar522$ exit
+exit
+
+Script done on Wed 17 Apr 2019 10:46:41 AM PDT
